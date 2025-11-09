@@ -1,9 +1,11 @@
-# Título H1
-## Título H2
+# Readme de día cuatro.
+## Debe de estar en el repositorio remoto.
 **negritas** y *cursivas*
 - listas
 1. listas numeradas
 `código en línea`
 ```bash
-# bloque de código
-ls -la
+# Comandos a realizar para entregar el trabajo.
+git log
+node -v
+npm -v
