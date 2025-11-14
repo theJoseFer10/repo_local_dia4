@@ -1,9 +1,9 @@
-# Readme de día cuatro.
+# Readme de actividad.
 ## Debe de estar en el repositorio remoto.
-**negritas** y *cursivas*
-- listas
-1. listas numeradas
-`código en línea`
+**José Fernando Arenas Camacho**
+
+*Mi perfil de github: theJoseFer10*
+
 ```bash
 # Comandos a realizar para entregar el trabajo.
 git log
